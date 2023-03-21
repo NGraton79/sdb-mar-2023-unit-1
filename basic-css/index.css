@@ -1,0 +1,18 @@
+#para1{
+    color: red;
+    border-style: dotted
+
+  }
+  
+  #para2 {
+    color: blue
+  }
+
+  .paragraph{
+    font-size: 30px;
+    color: purple !important;
+  }
+
+p {
+    margin-bottom: 150px;
+}
