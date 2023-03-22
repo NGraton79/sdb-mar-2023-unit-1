@@ -1,0 +1,21 @@
+body{
+    background-color: hotpink;
+}
+
+.flex-container > div{
+    padding: 10px;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.flex-container > div:nth-child(1){
+    background-color: lightblue;
+}  
+
+.flex-container > div:nth-child(2){
+    background-color: limegreen;
+}  
+
+.flex-container > div:nth-child(3){
+    background-color: orange;
+}  
