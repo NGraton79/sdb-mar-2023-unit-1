@@ -12,3 +12,6 @@
 
 5. Element
 
+## Inline styling
+
+`style="CSS STYLING:STYLE INFO"` how to use inline styling
